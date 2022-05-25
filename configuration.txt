@@ -1,0 +1,63 @@
+database file
+pro3/connection.php
+
+database username:root
+database password :947539
+database filename:localhost.sql
+
+admin
+
+username :admin
+
+password :admin@123
+
+link:-
+http://localhost/pro3/admin.php
+
+
+vendor
+link:-
+http://localhost/pro3/vendor_login.php
+
+vendor 1
+vendor username :vendr1@gmail.com
+password :vendor1
+
+
+vendor 2
+
+vendor username :vendr2@gmail.com
+password :vendor2
+
+
+vendor 3
+
+vendor username :vendr2@gmail.com
+password :vendor3
+
+
+
+customer
+
+login link:-
+http://localhost/pro3/form/index.php
+
+customer1
+username:customer1@gmail.com
+password :customer1
+
+
+username:customer2@gmail.com
+password :customer2
+
+username:customer3@gmail.com
+password :customer3@gmail
+
+
+cart link:-
+http://localhost/pro3/form/index.php
+
+
+
+note:-
+never use same name picture for different food for same vendor
